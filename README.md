@@ -1,3 +1,4 @@
+
 # ZapInventory — Full Stack Inventory & Stock Management System
 
 A modern, full-stack MERN (MongoDB, Express.js, React, Node.js) web application designed for electronic product inventory management with **automatic real-time stock deduction**.
@@ -489,3 +490,6 @@ git push -u origin main
 - **Single-Item Checkout**: Each order currently processes one product at a time.
 - **No Email Notifications**: Order receipts are displayed on-screen and stored in MongoDB rather than dispatched via SMTP.
 - **In-Memory Filtering**: Designed for small-to-medium electronic inventories without cursor pagination.
+
+# ZapInventory
+ a2763ed7f97b8538eadc4afab451f082b9d36f78
