@@ -1,0 +1,25 @@
+{
+  "name": "zapinventory",
+  "version": "1.0.0",
+  "description": "ZapInventory — Full Stack Inventory & Stock Management System",
+  "scripts": {
+    "server:dev": "npm run dev --prefix server",
+    "server:start": "npm start --prefix server",
+    "server:seed": "npm run seed --prefix server",
+    "server:admin": "npm run create-admin --prefix server",
+    "client:dev": "npm run dev --prefix client",
+    "client:build": "npm run build --prefix client"
+  },
+  "keywords": [
+    "inventory",
+    "mern",
+    "stock-management",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
