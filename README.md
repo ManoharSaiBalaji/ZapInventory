@@ -1,3 +1,18 @@
+# ZapInventory — Admin Login & Quick Start
+
+## Admin Login (Local Demo)
+
+Use these credentials to sign in as the administrator **after completing the setup steps below**:
+
+- **Login page:** `http://localhost:5173/login`
+- **Email:** `admin@zapinventory.com`
+- **Password:** `Admin@1234`
+- **Role:** `admin`
+
+**Important:** These are the default credentials created by the admin setup script. They will work only after you configure the MongoDB connection in `server/.env` and run `node scripts/createAdmin.js` from the `server` directory. Then seed the sample products if needed and start both the backend and frontend using the instructions in this README. This is a local demo login, not a hosted website login.
+
+---
+
 
 # ZapInventory — Full Stack Inventory & Stock Management System
 
